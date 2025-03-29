@@ -1,21 +1,21 @@
 {
     "downloads": {
         "link": "Scarica {filename} ({size})",
-        "useWorkaround": "Se il download non parte clicca qui"
+        "useWorkaround": "Se il download non inizia clicca qui"
     },
     "fileInput": {
-        "clear": "Cancella Selezione",
+        "clear": "Cancella selezione",
         "select": "Seleziona o trascina qui un file",
-        "selected": "Selezionato {file}"
+        "selected": "{file} selezionato."
     },
     "import": {
         "cancel": "Annulla",
-        "description": "Può richiedere un po' se il progetto è grande.",
-        "header": "Importazione del progetto in corso …"
+        "description": "Può richiedere un po' di tempo se il progetto è grande.",
+        "header": "Importazione del progetto in corso…"
     },
     "options": {
         "accentColor": "Colore di evidenziazione (controlli attivi, casella chiedi, menu contestuali) ",
-        "advancedOptions": "Opzioni Avanzate",
+        "advancedOptions": "Opzioni avanzate",
         "advancedSummary": "Probabilmente non sei interessato a cambiare queste impostazioni. (Clicca per aprire)",
         "application-linux-arm32": "App Linux {type} per architettura ARM (32-bit)",
         "application-linux-arm64": "App Linux {type}per architettura ARM (64-bit)",
@@ -27,10 +27,10 @@
         "applicationSettings": "Impostazioni Applicazione",
         "automaticallyCenter": "Centra automaticamente",
         "autoplay": "Inizia il progetto automaticamente, senza mostrare la bandiera verde al centro",
-        "autoplayHint": "Nota: Alcuni browser non permettono ai siti web di riprodurre automaticamente suoni, quindi i suoni non verranno riprodotti fino a che l'utente non interagirà con il progetto.",
+        "autoplayHint": "Nota: Alcuni browser non permettono ai siti web di riprodurre automaticamente suoni, quindi i suoni non verranno riprodotti finchè l'utente non interagirà con il progetto.",
         "backgroundColor": "Colore sfondo",
         "bakeExtensions": "Prova a includere una copia cache delle estensioni personali invece di scaricarle ogni volta che il progetto viene eseguito",
-        "closeWhenStopped": "Chiudi la finestra quando il progetto termina",
+        "closeWhenStopped": "Chiudi la finestra quando il progetto viene fermato",
         "cloudVariables": "Variabili Cloud",
         "cloudVariables-custom": "Impostazioni Avanzate",
         "cloudVariables-custom-help": "\"Avanzate\" usa una diversa modalità per ogni variabile, ad esempio alcune variabili possono sincronizzarsi con altri utenti mentre altre possono essere memorizzate localmente.  ",
@@ -50,23 +50,23 @@
         "customCSS": "CSS personalizzato (Non cambiare se non sai cosa stai facendo!)",
         "customCursor": "Puntatore del mouse personalizzato",
         "customExtensions": "Estensioni personalizzate (un URL per riga)",
-        "customExtensionsSecurity": "Le estensioni custom sono sempre eseguite senza sandbox nel packager. A seconda dell'ambiente per il quale stai creando il pacchetto, questo garantisce alle estensioni completo controllo del tuo computer, inclusa la possibilità di installare virus. Non usare estensioni di cui non ti fidi del tutto. ",
+        "customExtensionsSecurity": "Le estensioni personalizzate sono sempre eseguite senza sandbox nel packager. A seconda dell'ambiente per il quale stai creando il pacchetto, questo garantisce alle estensioni completo controllo del tuo computer, inclusa la possibilità di installare virus. Non usare estensioni di cui non ti fidi del tutto. ",
         "customJS": "JS personalizzato (Non cambiare se non sai cosa stai facendo!)",
         "customUsernameWarning": "Fai attenzione quando cambi il nome utente predefinito perché può causare il blocco delle connessioni al server predefinito delle variabili cloud. Solo il nome utente predefinito è garantito funzionare.",
         "defaultControls": "Standard",
-        "doNothing": "Non fare nulla",
+        "doNothing": "Non fare niente",
         "downloadsWillAppearHere": "I download appariranno qui",
         "dynamicResize": "Aggiusta le dimensioni dinamicamente per adattarsi alle dimensioni della finestra (sperimentale)",
         "editableLists": "Liste modificabili",
         "enableCompiler": "Abilita Compilatore",
         "environment": "Ambiente",
         "escapeBehavior": "Quando si preme il tasto escape",
-        "exitOnly": "Esci dal progetto",
+        "exitOnly": "Esci solo",
         "export": "Esporta le Impostazioni",
-        "foregroundColor": "Colore primo piano (barra di avanzamento, alcune icone, alcuni testi)",
+        "foregroundColor": "Colore primo piano (barra di progresso, alcune icone, alcuni testi)",
         "gamepad": "Supporta gamepad/controlli USB o Bluetooth",
         "gamepadHelp": "Basato sull'addon \"Supporto gamepad\".",
-        "highQualityPen": "Penna Alta Qualità",
+        "highQualityPen": "Penna ad Alta Qualità",
         "html": "Puro HTML (autonomo, funziona ovunque)",
         "icon": "Icona della pagina",
         "implicitCloudHint": "Suggerimento: Qualunque variabile il cui nome inizia con \"{cloud}\" sarà convertita in una variabile cloud anche se non è stata esplicitamente indicata come variabile cloud.",
@@ -79,7 +79,7 @@
         "loadingScreen": "Schermata di Caricamento",
         "loadingScreenImage": "Immagine della schermata di caricamento",
         "loadingScreenText": "Testo della schermata di caricamento",
-        "loadingScreenTextPlaceholder": "(Nulla)",
+        "loadingScreenTextPlaceholder": "(Niente)",
         "maxTextureDimension": "Aumenta la massima risoluzione dei costumi vettoriali permettendo ai costumi di grandi dimensioni di avere un aspetto migliore. Può aumentare il consumo di memoria e causare blocchi.",
         "mode": "Modalità",
         "monitors": "Monitor",
